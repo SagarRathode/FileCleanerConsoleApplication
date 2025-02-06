@@ -1,8 +1,12 @@
 # FileCleanerConsoleApplication
 # dependency - You need c compiler for run the program
+
 usage:DirectoryDelete.c
+
 compile :cc DirectoryDelete.c
+
 run: ./a.out DirectoryName(foldername)
+
 
 In Program in size given only 100 bytes you can change it whatever you want
 
